@@ -26,7 +26,7 @@ From the data hoarding subreddit side pannel
 - For those looking at making your own server instead of a prebuilt NAS the homelab subreddit has good [hardware](https://old.reddit.com/r/homelab/wiki/hardware) guides
   
   - their buyer [guide](https://old.reddit.com/r/homelab/wiki/buyingguide) 
-
+---
 ### Software to start hoarding
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - software to download youtube videos and other media from other websites
@@ -39,7 +39,7 @@ From the data hoarding subreddit side pannel
 #### Software lists from other sources
   - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
   - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
-
+---
 ### Archive.org
 
 
