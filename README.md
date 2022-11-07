@@ -29,7 +29,7 @@ From the data hoarding subreddit side pannel
 
 ### Software to start hoarding
 
-- [yt-dlp]((https://github.com/yt-dlp/yt-dlp)) - software to download youtube videos and other media from other websites
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - software to download youtube videos and other media from other websites
   - [Channel archiver script](https://github.com/dmn001/youtube_channel_archiver) - a script to archive entire youtube channels
   - [Other scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) for more yt-dlp downloads
 - [XDM](https://github.com/subhra74/xdm/tree/master) - fast tool to download media from websites
