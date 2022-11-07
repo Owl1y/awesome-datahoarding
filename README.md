@@ -36,10 +36,28 @@ From the data hoarding subreddit side pannel
 
 - [Soundcloud Music Downloader](https://github.com/flyingrub/scdl) - software to download music from soundcloud
 
+- [Jellyfin](https://github.com/jellyfin/jellyfin) to store your media
+
+
 #### Software lists from other sources
   - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
   - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
 ---
-### Archive.org
+### Youtube 
+- [LTT](https://youtube.com/playlist?list=PL2sbMDF3KdElbjdBRjDiavSpBkrrl3-R4) server related videos curated into a playlist 
+- [Jeff Geerling](https://youtube.com/playlist?list=PL2_OBreMn7FrsiSW0VDZjdq0xqUKkZYHT) playlist of his homelab videos and setup
+- [Wolfgang](https://youtube.com/playlist?list=PLkxWXio1KmRo65kTm77yqwSBNXa411WO3) server project playlist
+  - also his [homelab](https://youtube.com/playlist?list=PLkxWXio1KmRoYK9y3tgrImS8GTkeUVOzZ) playlist
+---
+### Other online communities 
+- Subreddits
+  - [r/archiveteam](https://old.reddit.com/r/Archiveteam/)
+  - [r/opendirectories](https://old.reddit.com/r/opendirectories/)
+  - [r/MusicHoarder](https://old.reddit.com/r/musichoarder/)
+  - [r/datacurator](https://old.reddit.com/r/datacurator/)
+  - [r/dataengineering](https://old.reddit.com/r/dataengineering/)
 
+---
+### Archive.org
+> The Internet Archive, a 501(c)(3) non-profit, is building a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, we provide free access to researchers, historians, scholars, people with print disabilities, and the general public. Our mission is to provide Universal Access to All Knowledge.
 
