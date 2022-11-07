@@ -36,8 +36,9 @@ From the data hoarding subreddit side pannel
 
 - [Soundcloud Music Downloader](https://github.com/flyingrub/scdl) - software to download music from soundcloud
 
-- Software recommended from r/homelabs to run your personal [server](https://old.reddit.com/r/homelab/wiki/software)
-- [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
+#### Software lists from other sources
+  - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
+  - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
 
 ### Archive.org
 
