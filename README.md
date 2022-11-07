@@ -21,11 +21,11 @@ From the data hoarding subreddit side pannel
 
 - [Best NAS](https://www.pcmag.com/picks/the-best-nas-network-attached-storage-devices) - A NAS is network attached storage and a simple way to get into data hoarding. It is also simple way to get into it since you just attach hard drives and connect it to your router
 
-- [Hard Drives]([Best hard drive 2022: the top HDDs to save all your data | TechRadar](https://www.techradar.com/news/10-best-internal-desktop-and-laptop-hard-disk-drives-2016)) for your NAS
+- [Hard Drives](https://www.techradar.com/news/10-best-internal-desktop-and-laptop-hard-disk-drives-2016) for your NAS
 
-- For those looking at making your own server instead of a prebuilt NAS the homelab subreddit has good [hardware]([hardware - homelab](https://old.reddit.com/r/homelab/wiki/hardware)) guides
+- For those looking at making your own server instead of a prebuilt NAS the homelab subreddit has good [hardware](https://old.reddit.com/r/homelab/wiki/hardware) guides
   
-  - their buyer [guide]([buyingguide - homelab](https://old.reddit.com/r/homelab/wiki/buyingguide)) 
+  - their buyer [guide](https://old.reddit.com/r/homelab/wiki/buyingguide) 
 
 ### Software to start hoarding
 
