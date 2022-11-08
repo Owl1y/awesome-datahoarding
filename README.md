@@ -61,3 +61,7 @@ From the data hoarding subreddit side pannel
 ### Archive.org
 > The Internet Archive, a 501(c)(3) non-profit, is building a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, we provide free access to researchers, historians, scholars, people with print disabilities, and the general public. Our mission is to provide Universal Access to All Knowledge.
 
+- Internet Archive [Blog](https://blog.archive.org/)
+  - [Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) chrome extension 
+- [Video](https://youtu.be/dCBy9z3f9Mw) by Internet Archive on how to use it
+- [Gaming](https://youtu.be/Wx4Py7-WK7k) with the Internet Archive
