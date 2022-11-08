@@ -64,4 +64,4 @@ From the data hoarding subreddit side pannel
 - Internet Archive [Blog](https://blog.archive.org/)
   - [Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) chrome extension 
 - [Video](https://youtu.be/dCBy9z3f9Mw) by Internet Archive on how to use it
-- [Gaming](https://youtu.be/Wx4Py7-WK7k) with the Internet Archive
+- [Gaming](https://youtu.be/Wx4Py7-WK7k) collection of old games no longer maintained  
