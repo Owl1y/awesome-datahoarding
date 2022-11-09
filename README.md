@@ -38,7 +38,9 @@ From the data hoarding subreddit side pannel
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) to store your media
 
+- [wget](https://www.gnu.org/software/wget/) which downloads media from the internet
 
+- [rsync](https://rsync.samba.org/) a command line tool to help backup or sync data between harddrives
 #### Software lists from other sources
   - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
   - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
