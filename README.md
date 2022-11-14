@@ -41,6 +41,8 @@ From the data hoarding subreddit side pannel
 - [wget](https://www.gnu.org/software/wget/) which downloads media from the internet
 
 - [rsync](https://rsync.samba.org/) a command line tool to help backup or sync data between harddrives
+
+- [curl](https://curl.se/) which is similar to wget but offers more file transfer support 
 #### Software lists from other sources
   - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
   - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
