@@ -1,8 +1,8 @@
-# Awesome Data hoaring
+# Awesome Data hoarding
 
 ### What is data hoarding
 
-From the data hoarding subreddit side pannel
+From the data hoarding subreddit side panel
 
 > We are digital librarians. Among us are represented the various 
 > reasons to keep data -- legal requirements, competitive requirements, 
@@ -23,7 +23,7 @@ From the data hoarding subreddit side pannel
 
 - [Hard Drives](https://www.techradar.com/news/10-best-internal-desktop-and-laptop-hard-disk-drives-2016) for your NAS
 
-- For those looking at making your own server instead of a prebuilt NAS the homelab subreddit has good [hardware](https://old.reddit.com/r/homelab/wiki/hardware) guides
+- For those looking at making your own server instead of a pre-built NAS the home-lab subreddit has good [hardware](https://old.reddit.com/r/homelab/wiki/hardware) guides
   
   - their buyer [guide](https://old.reddit.com/r/homelab/wiki/buyingguide) 
 ---
@@ -34,22 +34,22 @@ From the data hoarding subreddit side pannel
   - [Other scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) for more yt-dlp downloads
 - [XDM](https://github.com/subhra74/xdm/tree/master) - fast tool to download media from websites
 
-- [Soundcloud Music Downloader](https://github.com/flyingrub/scdl) - software to download music from soundcloud
+- [Soundcloud Music Downloader](https://github.com/flyingrub/scdl) - software to download music from Soundcloud
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) to store your media
 
 - [wget](https://www.gnu.org/software/wget/) which downloads media from the internet
 
-- [rsync](https://rsync.samba.org/) a command line tool to help backup or sync data between harddrives
+- [rsync](https://rsync.samba.org/) a command line tool to help backup or sync data between hard drives
 
 - [curl](https://curl.se/) which is similar to wget but offers more file transfer support 
 #### Software lists from other sources
   - [Software](https://old.reddit.com/r/homelab/wiki/software) recommended from r/homelabs to run your personal server
-  - [software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
+  - [Software](https://old.reddit.com/r/DataHoarder/wiki/software) recommended from r/datahoarders 
 ---
 ### Youtube 
 - [LTT](https://youtube.com/playlist?list=PL2sbMDF3KdElbjdBRjDiavSpBkrrl3-R4) server related videos curated into a playlist 
-- [Jeff Geerling](https://youtube.com/playlist?list=PL2_OBreMn7FrsiSW0VDZjdq0xqUKkZYHT) playlist of his homelab videos and setup
+- [Jeff Geerling](https://youtube.com/playlist?list=PL2_OBreMn7FrsiSW0VDZjdq0xqUKkZYHT) playlist of his home-lab videos and setup
 - [Wolfgang](https://youtube.com/playlist?list=PLkxWXio1KmRo65kTm77yqwSBNXa411WO3) server project playlist
   - also his [homelab](https://youtube.com/playlist?list=PLkxWXio1KmRoYK9y3tgrImS8GTkeUVOzZ) playlist
 ---
